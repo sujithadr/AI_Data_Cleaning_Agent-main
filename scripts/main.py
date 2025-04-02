@@ -3,7 +3,7 @@ from data_cleaning import DataCleaning
 from ai_agent import AIAgent
 
 
-# ✅ Database Configuration
+# ✅ Database Configuration . this can be moved to .env file or secrets 
 
 DB_USER = "postgres"  # Replace with your real PostgreSQL username
 DB_PASSWORD = "admin"  # Replace with your PostgreSQL password
